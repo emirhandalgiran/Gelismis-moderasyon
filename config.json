@@ -1,0 +1,50 @@
+{
+
+    "Bot": { "Token": "", "Prefix": ".", "Owner": ["815211862119153677","320284854862217219","799561953344356363","530457570884976650"], "Eval": ["312854920011448330"] }, 
+
+    "Mongoose": { "URL": "", "Message": "Mongoose Connected" },
+
+    "Ready": { "Ready": "LeFearr 💓", "Type": "WATCHING", "Status":"dnd", "Voice": "827623906897559553" },
+
+
+    "Guild": { "GuildID": "793378976345227265", "Tag": "", "Tag2": "", "TagName": "|", "TagRole": "", "Link": "", "Rules": "827517674133127168"},
+    
+    "Parent": { "Public": "", "Register": "", "Game": "", "VK": "", "Dc": ""},
+
+    "Colors": { "Purple": "b46eee", "Turquoise": "00ffb6 ", "Black": "#000000", "White": "#ffffff", "Red": "#be0d0d"},
+
+    "React": { "Check": "<a:onaycik3:827634015296159754> ", "CheckName": "<a:onaycik3:827634015296159754> ", "Cross": "<a:redd:827634077100146799>", "CrossName": "<a:redd:827634077100146799>"},
+
+    "Roles": { "Erkek": ["827776698027737090", "827517616611393556"], "Kız": ["827776698661601290", "827517616611393556"], "Unregister": ["827775530135846933"], "Jail": "", "Muted": "", "Booster": "795698620241543199", "BannedTagRole": "" },
+
+    "Permissions": { "RegisterPerm": "827517611855183882", "BanPerm": "827517611855183882", "MutePerm": "827517611855183882", "VoiceMutePerm": "827517611855183882", "JailPerm": "827517611855183882", "CommandPerm": "822931359470583838"},
+
+    "AblitiyAdmin": {
+        "TherapistAdmin": "", "SorunÇözücüAdmin": "", "VKAdmin": "", "DCAdmin": ""
+    },
+
+    "Ability": {
+
+    "Therapist": "", "DCYönetici": "", "VKYönetici": "", "SorunÇözücü": "", "Vocal": "", "Musician": "", "Desinger": "", 
+
+    "Artist": "", "Şair": "", "Software": "", "Streamer": "818157869496926219",
+
+    "Youtuber": "", "Strings": "", "VoiceActor": "",
+
+    "Instagrammer": "", "Devotion": "", "Vip": "", "Rapper": "", 
+
+    "Beatbox": "", "Wind": "", "Piano": "", "Lovers": ""
+
+    },
+
+    "Welcome": { "WebhookID": "", "WebhookToken": "" },
+
+    "Ban": { "WebhookID": "", "WebhookToken": "" },
+
+    "Mute": { "WebhookID": "", "WebhookToken": ""},
+
+    "VoiceMute": { "WebhookID": "", "WebhookToken": ""},
+
+    "Jail": { "WebhookID": "", "WebhookToken": ""}
+
+}
